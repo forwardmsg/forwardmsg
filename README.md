@@ -8,9 +8,11 @@ Welcome to **ForwardMsg**, the ultimate solution for **automating message forwar
 
 ✅ **Use Your Own Discord Account** - No need for third-party bots! Forward messages directly from your own Discord account.
 
-✅ **Advanced Filtering** - Filter messages by **keywords, users, roles, or channels**, ensuring only relevant messages are forwarded.
-
 ✅ **Media Support** - Forward **images, videos, documents, and audio files** effortlessly.
+
+✅ **Message Editing** - Edit messages before they are forwarded to ensure accuracy and customization.
+
+✅ **Advanced Filtering** - Filter messages by **keywords, users, roles, or channels**, ensuring only relevant messages are forwarded.
 
 ✅ **Easy Setup** - No coding required! Set up ForwardMsg in just a few clicks.
 
