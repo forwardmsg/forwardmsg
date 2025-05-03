@@ -14,6 +14,8 @@ Perfect for **communities, support teams, resellers, crypto investors**, and **c
 
 ✅ **Use Your Own Discord Account** – No need for third-party bots! Messages are forwarded securely through your own account.
 
+✅ **Use Your Own Telegram Account** – No need for third-party bots! Messages are forwarded securely through your own account.
+
 ✅ **Media Support** – Forward **images, videos, documents, and audio files** effortlessly across platforms.
 
 ✅ **Message Editing** – Customize messages before they’re forwarded for full control.
