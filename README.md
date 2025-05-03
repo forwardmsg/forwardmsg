@@ -1,48 +1,47 @@
-# 🚀 ForwardMsg - Forward any Discord Messages to Telegram
+# 🚀 ForwardMsg – Sync Messages Between Discord and Telegram
 
-Welcome to **ForwardMsg**, the ultimate solution for **automating message forwarding** between platforms! Say goodbye to manually copying and pasting messages – ForwardMsg does the work for you, seamlessly syncing messages from **Discord to Telegram** in real-time. 💬➡️📲
+**ForwardMsg** is a powerful message forwarding tool that automatically syncs messages between **Discord and Telegram**. Whether you need **Discord-to-Telegram**, **Telegram-to-Discord**, or even **Discord-to-Discord** and **Telegram-to-Telegram** message forwarding, ForwardMsg delivers real-time, reliable performance.
+
+Perfect for **communities, support teams, resellers, crypto investors**, and **content creators** managing multiple channels or platforms. 📢💬
 
 ---
 
 ## 🌟 Features
 
-✅ **Use Your Own Discord Account** - No need for third-party bots! Forward messages directly from your own Discord account.
+✅ **Bi-Directional Forwarding** – Forward messages **from Discord to Telegram** and **Telegram to Discord** with seamless real-time syncing.
 
-✅ **Media Support** - Forward **images, videos, documents, and audio files** effortlessly.
+✅ **Cross-Platform Flexibility** – Also supports **Discord-to-Discord** and **Telegram-to-Telegram** forwarding.
 
-✅ **Message Editing** - Edit messages before they are forwarded to ensure accuracy and customization.
+✅ **Use Your Own Discord Account** – No need for third-party bots! Messages are forwarded securely through your own account.
 
-✅ **Advanced Filtering** - Filter messages by **keywords, users, roles, or channels**, ensuring only relevant messages are forwarded.
+✅ **Media Support** – Forward **images, videos, documents, and audio files** effortlessly across platforms.
 
-✅ **Easy Setup** - No coding required! Set up ForwardMsg in just a few clicks.
+✅ **Message Editing** – Customize messages before they’re forwarded for full control.
 
-✅ **Real-Time Message Sync** - Automatically forward messages from Discord to Telegram without delays.
+✅ **Advanced Filtering** – Filter messages by **keywords, users, roles, or channels** so only what matters gets forwarded.
 
-✅ **Secure & Reliable** - Built with **privacy and security in mind**, ensuring safe message transfers.
+✅ **Real-Time Sync** – Lightning-fast performance with minimal delay.
 
-💡 And this is just the beginning! We have exciting plans to add more integrations in the future, making it even easier to connect your favorite platforms. 🚀
-- Telegram to Discord
-- Discord to Discord
-- Telegram to Telegram
+✅ **Easy Setup** – Intuitive, no-code configuration to get started quickly.
 
----
-
-## 🎉 Special Launch Offer
-🚀 To celebrate our launch, we’re offering **50% OFF for 3 months on any plan if you sign up in March!** Don’t miss out! ⏳
+✅ **Secure & Reliable** – Designed with **privacy, security, and uptime** in mind.
 
 ---
 
-## 🔗 Get Started | It's Free
-Start automating your messages today! Try ForwardMsg now:
+## 🔗 Get Started | It’s Free
+
+Start automating your message workflow today with **ForwardMsg**:
 
 🔗 **[Visit ForwardMsg](https://www.forwardmsg.com)**
 
-📢 Have questions or suggestions? Join our community and let us know!
+---
 
-💬 **Follow us on social media:**  
+## 💬 Connect With Us
+
+Have questions, feedback, or suggestions? Join our community and stay up-to-date:
+
 🐦 X/Twitter: [@msgforward](https://x.com/msgforward)  
-🎧 Telegram Support: [t.me/forwardmsg_support](https://t.me/forwardmsg_support)  
-📢 Telegram Channel News: [t.me/forwardmsg_official](https://t.me/forwardmsg_official)  
-📗 Docs guide: [Documentation](https://www.forwardmsg.com/docs)  
+🎧 Telegram Support: [t.me/forwardmsg\_support](https://t.me/forwardmsg_support)  
+📢 Telegram Channel News: [t.me/forwardmsg\_official](https://t.me/forwardmsg_official)  
+📗 Docs: [Documentation](https://www.forwardmsg.com/docs)  
 📝 Blog: [Blog Posts](https://www.forwardmsg.com/blog)
-
